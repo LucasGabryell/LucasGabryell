@@ -39,13 +39,7 @@ Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade, t
 |**Main Languages** | <img align="center" alt="Javascript" height="30" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">  <img align="center" alt="TypeScript" height="30" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> <img align="center" alt="PYTHON" height="30"  src="https://img.shields.io/badge/python-6DA55F?style=for-the-badge&logo=python&logoColor=white"> <img align="center" alt="C#" height="30"  src="https://img.shields.io/badge/csharp-%23777BB4.svg?style=for-the-badge&logo=csharp&logoColor=white">|
 
 </div>
-<h2></h2>
 
-<div align="center">
-  <a href="https://beacons.ai/lucasromao_">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGabryell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabryell&layout=compact&langs_count=7&theme=dracula"/>               </div>                     
-<h2></h2>
 
 
   
