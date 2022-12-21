@@ -1,13 +1,12 @@
 <h1 align="center">Bem vindo(a) 🖖🏽</h1>
 <p>
-Meu nome é Lucas Gabryell Souza Romão.Atualmente estudo NodeJs e C# no Back-end e ReactJs para o Front-end. 
+Meu nome é Lucas Gabryell Souza Romão. Sou estagiário na Smarthis e trabalho com RPA usando da plataforma UiPath. 
 Mantenho-me estudando e atualizando das novas tecnologias do mercado.
-Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade, tenho a certeza de que irei somar junto a empresa. 
 </p>
 
-<a href="https://www.linkedin.com/in/afonso-bezerra-33b495174/" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-romão-131b3a200/" target="_blank">
     <h1 align="center">
-       Lucas Romão | Developer
+       Lucas Romão | RPA Developer
         </a>
     </h1>
     <div align="left">
