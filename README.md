@@ -32,10 +32,8 @@ Mantenho-me estudando e atualizando das novas tecnologias do mercado.
 ||
 |**Conhecimento / Uso** | <img align="center" alt="GIT" height="30" src="https://img.shields.io/badge/git-61210B?&style=for-the-badge&logo=git&logoColor=white"> <img align="center" alt="GITHUB" height="30" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">|
 |**Database** |  <img align="center" alt="MYSQL" height="30" src="https://img.shields.io/badge/mysql-404D59?style=for-the-badge&logo=mysql&logoColor=white"> |
- | **Style** |  <img align="center" alt="SASS" height="30" src="https://img.shields.io/badge/sass-530078?&style=for-the-badge&logo=sass&logoColor=white"> <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/css-007ACC?style=for-the-badge&logo=css3&logoColor=white"> |
 |**Os** | <img align="center" alt="Windows" height="30" src="https://img.shields.io/badge/windows-862d59?style=for-the-badge&logo=windows&logoColor=white">|
-|**Most used Frameworks** | <img align="center" alt="REACTJS" height="30"  src="https://img.shields.io/badge/reactjs-black?&style=for-the-badge&logo=react&logoColor=white">  |
-|**Main Languages** |  <strong align="center" alt="VB.NET" height="30"> <img align="center" alt="PYTHON" height="30"  src="https://img.shields.io/badge/python-6DA55F?style=for-the-badge&logo=python&logoColor=white"> <img align="center" alt="C#" height="30"  src="https://img.shields.io/badge/csharp-%23777BB4.svg?style=for-the-badge&logo=csharp&logoColor=white">|
+|**Main Languages** | <img align="center" alt="PYTHON" height="30"  src="https://img.shields.io/badge/python-6DA55F?style=for-the-badge&logo=python&logoColor=white"> <img align="center" alt="C#" height="30"  src="https://img.shields.io/badge/csharp-%23777BB4.svg?style=for-the-badge&logo=csharp&logoColor=white">|
 
 </div>
 
